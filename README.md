@@ -8,20 +8,14 @@ The `/sw` endpoint will use the Open Source Star Wars API, http://swapi.co/, and
 
 An example of the Data Sources format is below:
 
-    [
-        {
-            "key": "some_key",
-            "value": "some_value"
-        }
-    ]
-
-You can also choose which item is to be selected by default by adding the "selected" property
+You can also choose which item is to be selected by default by setting the "selected" property to true
 
 
     [
         {
             "key": "some_key",
-            "value": "some_value"
+            "value": "some_value",
+            "selected": true
         },
         {
             "key": "other_key",
