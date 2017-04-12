@@ -1,4 +1,5 @@
 # Feedhenry Sample Service Using data from the Internet for Data Sources
+[![Dependency Status](https://img.shields.io/david/feedhenry-templates/appforms-datasources-internet.svg?style=flat-square)](https://david-dm.org/feedhenry-templates/appforms-datasources-internet)
 
 This sample RESTful service has 2 endpoints, `/hobbies` and `/sw` for loading data from the Internet and then properly formatting it as a Data Source
 
