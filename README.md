@@ -31,3 +31,19 @@ You can also choose which item is to be selected by default by adding the "selec
         }
     ]
 
+# Build
+```
+npm install
+```
+
+# Test
+All the tests are in the "test/" directory. The cloud app is using mocha as the test runner. 
+
+* unit tests:
+```
+npm test
+```
+* coverage report for unit tests:
+```
+npm run coverage
+```

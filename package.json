@@ -5,7 +5,9 @@
   "main": "application.js",
   "scripts": {
     "start": "node application.js",
-    "test": "grunt unit"
+    "serve": "grunt serve",
+    "test": "grunt test",
+    "coverage": "grunt coverage"
   },
   "repository": {
     "type": "git",
