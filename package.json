@@ -1,6 +1,6 @@
 {
   "name": "fh-datasources-internet-cloud",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Feedhenry Sample Service Using Data from the Internet for Data Sources",
   "main": "application.js",
   "scripts": {

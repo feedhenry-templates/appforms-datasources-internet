@@ -12,17 +12,19 @@ An example of the Data Sources format is below:
     [
         {
             "key": "some_key",
-            "value": "some_value"
+            "value": "some_value",
+            "selected": false
         }
     ]
 
-You can also choose which item is to be selected by default by adding the "selected" property
+You can also choose which item is to be selected by default by setting the "selected" property to true.
 
 
     [
         {
             "key": "some_key",
-            "value": "some_value"
+            "value": "some_value",
+            "selected": false
         },
         {
             "key": "other_key",
